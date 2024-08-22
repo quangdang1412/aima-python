@@ -213,8 +213,9 @@ def exit_game(root):
     root.destroy()
 
 
+global result, choices
+
 if __name__ == "__main__":
-    global result, choices
 
     root = Tk()
     root.title("TicTacToe")

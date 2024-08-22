@@ -1,5 +1,6 @@
 import os.path
 import random
+import sys
 import time
 from functools import partial
 from tkinter import *
